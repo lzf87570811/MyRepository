@@ -16,7 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-			额恩恩
-    <finalName>demo 哈哈</finalName>
+    <finalName>demo</finalName>
   </build>
 </project>
